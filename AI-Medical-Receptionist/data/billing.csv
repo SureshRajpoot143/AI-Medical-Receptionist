@@ -1,0 +1,4 @@
+service,cost,currency
+Consultation,50,USD
+X-Ray,90,USD
+MRI,250,USD
